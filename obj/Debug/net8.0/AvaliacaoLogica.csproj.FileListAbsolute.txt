@@ -1,0 +1,14 @@
+C:\Users\38606125814\Desktop\Projetos\Exercicios\AvaliacaoLogica\bin\Debug\net8.0\AvaliacaoLogica.exe
+C:\Users\38606125814\Desktop\Projetos\Exercicios\AvaliacaoLogica\bin\Debug\net8.0\AvaliacaoLogica.deps.json
+C:\Users\38606125814\Desktop\Projetos\Exercicios\AvaliacaoLogica\bin\Debug\net8.0\AvaliacaoLogica.runtimeconfig.json
+C:\Users\38606125814\Desktop\Projetos\Exercicios\AvaliacaoLogica\bin\Debug\net8.0\AvaliacaoLogica.dll
+C:\Users\38606125814\Desktop\Projetos\Exercicios\AvaliacaoLogica\bin\Debug\net8.0\AvaliacaoLogica.pdb
+C:\Users\38606125814\Desktop\Projetos\Exercicios\AvaliacaoLogica\obj\Debug\net8.0\AvaliacaoLogica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38606125814\Desktop\Projetos\Exercicios\AvaliacaoLogica\obj\Debug\net8.0\AvaliacaoLogica.AssemblyInfoInputs.cache
+C:\Users\38606125814\Desktop\Projetos\Exercicios\AvaliacaoLogica\obj\Debug\net8.0\AvaliacaoLogica.AssemblyInfo.cs
+C:\Users\38606125814\Desktop\Projetos\Exercicios\AvaliacaoLogica\obj\Debug\net8.0\AvaliacaoLogica.csproj.CoreCompileInputs.cache
+C:\Users\38606125814\Desktop\Projetos\Exercicios\AvaliacaoLogica\obj\Debug\net8.0\AvaliacaoLogica.dll
+C:\Users\38606125814\Desktop\Projetos\Exercicios\AvaliacaoLogica\obj\Debug\net8.0\refint\AvaliacaoLogica.dll
+C:\Users\38606125814\Desktop\Projetos\Exercicios\AvaliacaoLogica\obj\Debug\net8.0\AvaliacaoLogica.pdb
+C:\Users\38606125814\Desktop\Projetos\Exercicios\AvaliacaoLogica\obj\Debug\net8.0\AvaliacaoLogica.genruntimeconfig.cache
+C:\Users\38606125814\Desktop\Projetos\Exercicios\AvaliacaoLogica\obj\Debug\net8.0\ref\AvaliacaoLogica.dll
