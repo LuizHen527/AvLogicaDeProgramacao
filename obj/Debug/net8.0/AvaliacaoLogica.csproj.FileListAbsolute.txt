@@ -12,3 +12,4 @@ C:\Users\38606125814\Desktop\Projetos\Exercicios\AvaliacaoLogica\obj\Debug\net8.
 C:\Users\38606125814\Desktop\Projetos\Exercicios\AvaliacaoLogica\obj\Debug\net8.0\AvaliacaoLogica.pdb
 C:\Users\38606125814\Desktop\Projetos\Exercicios\AvaliacaoLogica\obj\Debug\net8.0\AvaliacaoLogica.genruntimeconfig.cache
 C:\Users\38606125814\Desktop\Projetos\Exercicios\AvaliacaoLogica\obj\Debug\net8.0\ref\AvaliacaoLogica.dll
+C:\Users\38606125814\Desktop\Projetos\Exercicios\AvaliacaoLogica\obj\Debug\net8.0\AvaliacaoLogica.sourcelink.json

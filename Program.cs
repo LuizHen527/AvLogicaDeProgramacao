@@ -88,7 +88,7 @@ Lista de nomes");
         for (int i = 0; i < 10; i++)
         {
             Console.WriteLine($@"
-Digite dez numeros({i+1}):");
+Digite dez numeros({i + 1}):");
 
             numeros[i] = Convert.ToInt32(Console.ReadLine());
         }
@@ -109,7 +109,7 @@ Soma dos numeros pares: {soma}");
 
     }
 
-    else if(escolha == 4)
+    else if (escolha == 4)
     {
         Console.ForegroundColor = ConsoleColor.Yellow;
         Console.WriteLine("----------------------- EXERCICIO 4 -----------------------");
@@ -120,16 +120,78 @@ Soma dos numeros pares: {soma}");
 
         for (int i = 0; i < 11; i++)
         {
-            Console.WriteLine($"{numero} x {i} = {i*numero} ");
+            Console.WriteLine($"{numero} x {i} = {i * numero} ");
         }
         Console.ForegroundColor = ConsoleColor.White;
         Console.WriteLine("Precione enter para continuar...");
         Console.ReadLine();
     }
 
-    else if(escolha == 5)
+    else if (escolha == 5)
     {
-        
+        // 
+        // 10 capturar um texto readline
+        // percoorer a string capturada
+        // 
+        //Foreach percorre cada letra da string
+        //Pra cada letra, validar se ela esta no array de letras
+        //Se nao tiver colocar no array de letras e colocar no array de contador
+        //Se tiver 
+        Console.ForegroundColor = ConsoleColor.Yellow;
+        Console.WriteLine("----------------------- EXERCICIO 4 -----------------------");
+        Console.ForegroundColor = ConsoleColor.White;
+
+        char[] alfabeto = new char[27];
+        int[] quantidade = new int[27];
+        int index = 0;
+
+        Console.WriteLine("Digite um texto:");
+        string? texto = Console.ReadLine();
+
+        foreach (char letra in texto)
+        {
+            int indexFinder = 0;
+
+
+            if (letra == ' ')
+            {
+                continue;
+            }
+
+            else
+            {
+                foreach (char l in alfabeto)
+                {
+                    if (letra == l)
+                    {
+                        indexFinder = Array.IndexOf(alfabeto, l);
+
+                        quantidade.GetValue(indexFinder);
+
+                        break;
+                    }
+                    else
+                    {
+                        alfabeto.SetValue(letra, index);
+                        quantidade.SetValue(1, index);
+                        index++;
+                        break;
+                    }
+                }
+
+            }
+
+        }
+        foreach (var letra in alfabeto)
+        {
+            int i = 0;
+
+            Console.WriteLine($"{letra} apareceu {quantidade.GetValue(i)}");
+        }
+
+        Console.ForegroundColor = ConsoleColor.White;
+        Console.WriteLine("Precione enter para continuar...");
+        Console.ReadLine();
     }
     else if (escolha == 6)
     {
